@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "GravityGameWebBuild.data.unityweb",
+"asmCodeUrl": "GravityGameWebBuild.asm.code.unityweb",
+"asmMemoryUrl": "GravityGameWebBuild.asm.memory.unityweb",
+"asmFrameworkUrl": "GravityGameWebBuild.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
